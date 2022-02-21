@@ -1,7 +1,7 @@
 {
   "name": "test-task",
   "version": "0.1.0",
-  "homepage": "https://kbattya.github.io/test-task/",
+  "homepage": "https://kbattya.github.io/test-task-chi",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
