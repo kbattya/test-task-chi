@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-task-chi/static/css/main.77b8c2d8.css",
+    "main.js": "/test-task-chi/static/js/main.a5c6d978.js",
+    "index.html": "/test-task-chi/index.html",
+    "main.77b8c2d8.css.map": "/test-task-chi/static/css/main.77b8c2d8.css.map",
+    "main.a5c6d978.js.map": "/test-task-chi/static/js/main.a5c6d978.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77b8c2d8.css",
+    "static/js/main.a5c6d978.js"
+  ]
+}
